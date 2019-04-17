@@ -21,11 +21,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/12306$Nosetests_for_TestAll_testAll_testLogin.coverage" NAME="Nosetests for TestAll.testAll.testLogin Coverage Results" MODIFIED="1547517351085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UnitTest" />
-    <SUITE FILE_PATH="coverage/12306$pushbearConf.coverage" NAME="pushbearConf Coverage Results" MODIFIED="1547607924184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/config" />
     <SUITE FILE_PATH="coverage/12306$cdn_utils.coverage" NAME="cdn_utils Coverage Results" MODIFIED="1547546064988" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/agency" />
-    <SUITE FILE_PATH="coverage/12306$select_ticket_info.coverage" NAME="select_ticket_info Coverage Results" MODIFIED="1547545588185" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/init" />
+    <SUITE FILE_PATH="coverage/12306$pushbearConf.coverage" NAME="pushbearConf Coverage Results" MODIFIED="1547607924184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/config" />
     <SUITE FILE_PATH="coverage/12306$run.coverage" NAME="run Coverage Results" MODIFIED="1540282009794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/12306$Nosetests_for_TestAll_testAll_testLogin.coverage" NAME="Nosetests for TestAll.testAll.testLogin Coverage Results" MODIFIED="1547517351085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/UnitTest" />
+    <SUITE FILE_PATH="coverage/12306$select_ticket_info.coverage" NAME="select_ticket_info Coverage Results" MODIFIED="1547545588185" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/init" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -136,7 +136,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds" extendedState="1" fullScreen="true">
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="812" />
@@ -171,6 +171,7 @@
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="waittime&#9;FILE&#9;file:///usr/local/py_work/12306/inter/QueryOrderWaitTime.py&#10;url&#9;FILE&#9;file:///usr/local/py_work/12306/config/urlConf.py&#10;dto&#9;FILE&#9;file:///usr/local/py_work/12306/inter/GetPassengerDTOs.py&#10;wa&#9;FILE&#9;file:///usr/local/py_work/12306/inter/QueryOrderWaitTime.py&#10;email&#9;FILE&#9;file:///usr/local/py_work/12306/config/emailConf.py" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -647,7 +648,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../lib/python2.7/site-packages/wrapcache/__init__.py">
+    <entry file="file://F:/lib/python2.7/site-packages/wrapcache/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="177">
           <caret line="50" column="32" selection-start-line="50" selection-start-column="30" selection-end-line="50" selection-end-column="32" />
@@ -683,7 +684,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../Cellar/python@2/2.7.14_3/Frameworks/Python.framework/Versions/2.7/lib/python2.7/random.py">
+    <entry file="file://F:/Cellar/python@2/2.7.14_3/Frameworks/Python.framework/Versions/2.7/lib/python2.7/random.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="157">
           <caret line="219" selection-start-line="219" selection-end-line="219" />
